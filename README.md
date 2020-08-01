@@ -1,6 +1,6 @@
 ## ✌🏽 About me
 
-![banner](assets/ng-banner.png)
+![banner](https://github.com/bernard-ng/bernard-ng/blob/master/assets/ng-banner.png)
 
 I am a young developer (20 years old 💁🏾‍♂️) passionate about the technologies of the web.
 founder at devs-cast.com & larytech.com
@@ -25,6 +25,6 @@ I'm from DR Congo 🇨🇩
 - Linkedin : https://www.linkedin.com/in/bernard-ngandu/
 - Discord : https://discord.gg/umR7gv
 - Youtube : https://www.youtube.com/channel/UCHNY24uW_Ubydj5uWxOLudQ
-- Instagram : https://instagram.com/\_bernard.ng\_
+- Instagram : https://instagram.com/\_bernard.ng_
 
-📋 my resume : [resume](assets/bernard-ng-cv.pdf)
+📋 my resume : [resume](https://github.com/bernard-ng/bernard-ng/blob/master/assets)
