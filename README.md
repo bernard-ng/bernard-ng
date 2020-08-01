@@ -18,6 +18,7 @@ Founder at https://devs-cast.com & https://larytech.com - CS student in South Af
 - https://lushitrap.com
 - https://covid-19info.cd
 - https://larytech.com
+- https://devs-cast.com
 - https://manager.larytech.com
 - https://goodbytes.nl
 - https://femmes-sciencesrdc.org
