@@ -1,16 +1,30 @@
-### Hi there 👋
+## ✌🏽 About me
 
-<!--
-**bernard-ng/bernard-ng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![banner](assets/ng-banner.png)
 
-Here are some ideas to get you started:
+I am a young developer (20 years old 💁🏾‍♂️) passionate about the technologies of the web.
+founder at devs-cast.com & larytech.com
+CS student in South Africa  🇿🇦
+I'm from DR Congo 🇨🇩
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🔭 I’m currently working on 
+- conversejs : https://github.com/conversejs/converse.js/
+- devscast projects : https://github.com/devscast
+
+## 👨🏽‍🔧 I've built and worked on
+- https://magbusiness.net
+- https://lushitrap.com
+- https://covid-19info.cd
+- https://larytech.com
+- https://manager.larytech.com
+- https://goodbytes.nl
+- https://femmes-sciencesrdc.org
+
+## 📫 How to reach me
+- Linkedin : https://www.linkedin.com/in/bernard-ngandu/
+- Discord : https://discord.gg/umR7gv
+- Youtube : https://www.youtube.com/channel/UCHNY24uW_Ubydj5uWxOLudQ
+- Instagram : https://instagram.com/\_bernard.ng\_
+
+📋 my resume : [resume](assets/bernard-ng-cv.pdf)
