@@ -3,8 +3,11 @@
 ![banner](https://github.com/bernard-ng/bernard-ng/blob/master/assets/ng-banner.png)
 
 I am a young developer (20 years old 💁🏾‍♂️) passionate about the technologies of the web.
+
 founder at devs-cast.com & larytech.com
+
 CS student in South Africa  🇿🇦
+
 I'm from DR Congo 🇨🇩
 
 
