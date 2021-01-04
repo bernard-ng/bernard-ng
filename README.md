@@ -2,8 +2,8 @@
 
 ![banner](https://github.com/bernard-ng/bernard-ng/blob/master/assets/ng-banner.png)
 
-I am a young developer (20 years old 💁🏾‍♂️) passionate about the technologies of the web.
-Founder at https://devs-cast.com & https://larytech.com - CS student in South Africa 🇿🇦 - I'm from DR Congo 🇨🇩
+I am a young developer passionate about the technologies of the web.
+Founder at https://devs-cast.com & https://larytech.com 
 
 
 ## 🔭 I’m currently working on 
