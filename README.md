@@ -11,6 +11,10 @@ Founder at https://devs-cast.com & https://larytech.com
 - devscast projects : https://github.com/devscast
 
 
+## 📊 Github stats
+[![bernard-ng's GitHub stats](https://github-readme-stats.vercel.app/api?username=bernard-ng&theme=algolia&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/bernard-ng) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bernard-ng&layout=default&theme=algolia&hide=html,coffeescript)](https://github.com/bernard-ng)
+
+
 ## 👨🏽‍🔧 I've built and worked on
 - https://velocom.be
 - https://itot.africa
