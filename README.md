@@ -2,29 +2,32 @@
 
 ![banner](assets/ng-banner.png)
 
-I am a young developer (20 years old 💁🏾‍♂️) passionate about the technologies of the web.
-founder at devs-cast.com & larytech.com
-CS student in South Africa  🇿🇦
+I am a young developer, 21 years old 💁🏾‍♂️ passionate about the technologies of the web.
+founder at devscast.tech
 I'm from DR Congo 🇨🇩
 
 
 ## 🔭 I’m currently working on 
-- conversejs : https://github.com/conversejs/converse.js/
 - devscast projects : https://github.com/devscast
+
+## 👨🏽‍🔧 Successfull projects
+- https://t.me/EsisHoraireBot (telegram bot +100 requests per day)
+- https://twitter.com/Covid19RdcBot (twitter bot +1k impressions per day)
 
 ## 👨🏽‍🔧 I've built and worked on
 - https://magbusiness.net
 - https://lushitrap.com
-- https://covid-19info.cd
-- https://larytech.com
-- https://manager.larytech.com
+- https://covid19.devscast.tech
+- https://clubdiaspora.com
+- https://devscast.tech
+- https://velocom.be
 - https://goodbytes.nl
 - https://femmes-sciencesrdc.org
 
 ## 📫 How to reach me
 - Linkedin : https://www.linkedin.com/in/bernard-ngandu/
-- Discord : https://discord.gg/umR7gv
-- Youtube : https://www.youtube.com/channel/UCHNY24uW_Ubydj5uWxOLudQ
-- Instagram : https://instagram.com/\_bernard.ng\_
+- Email : bernard@devscast.tech
+- Telegram : https://t.me/BernardNgandu
 
-📋 my resume : [resume](assets/bernard-ng-cv.pdf)
+📋 my resume (english) : [resume](assets/BernardTshabuNgandu-english.pdf)
+📋 my resume (french) : [resume](assets/BernardTshabuNgandu-french.pdf)
