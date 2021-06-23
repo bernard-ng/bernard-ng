@@ -9,7 +9,7 @@ I'm from DR Congo 🇨🇩
 ## 🔭 I’m currently working on 
 - devscast projects : https://github.com/devscast
 
-## 👨🏽‍🔧 Successfull projects
+## 👨🏽‍🔧 Successful projects
 - https://t.me/EsisHoraireBot (telegram bot +100 requests per day)
 - https://twitter.com/Covid19RdcBot (twitter bot +1k impressions per day)
 
