@@ -1,39 +1,27 @@
-## ✌🏽 About me
+## About
 
 ![banner](https://github.com/bernard-ng/bernard-ng/blob/master/assets/ng-banner.png)
 
-I am a young developer, 21 years old 💁🏾‍♂️ passionate about the technologies of the web.
-founder at devscast.tech
-I'm from DR Congo 🇨🇩
+Human, Entrepreneur and Software Developer
+Based in Lubumbashi - D.R Congo 🇨🇩
 
-## 🔭 I’m currently working on 
-- devscast projects : https://github.com/devscast
 
-## 👨🏽‍🔧 Successfull projects
+## Successfull Personnal Projects
 - https://t.me/EsisHoraireBot (telegram bot +100 requests per day)
 - https://twitter.com/Covid19RdcBot (twitter bot +1k impressions per day)
 
-## 📊 Github stats
-[![bernard-ng's GitHub stats](https://github-readme-stats.vercel.app/api?username=bernard-ng&theme=algolia&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/bernard-ng) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bernard-ng&layout=default&theme=algolia&hide=html,coffeescript)](https://github.com/bernard-ng)
 
-## 👨🏽‍🔧 I've built and worked on
-- https://velocom.be
-- https://itot.africa
-- https://magbusiness.net
-- https://lushitrap.com
-- https://covid19.devscast.tech
-- https://clubdiaspora.com
-- https://congomemoire.net
-- https://devscast.tech
-- https://velocom.be
-- https://goodbytes.nl
-- https://femmes-sciencesrdc.org
+## Get in touch
 
+<p align="center">
+<a href="https://www.linkedin.com/in/bernard-ngandu/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-BernardNg-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://twitter.com/BernardNgandu"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-BernardNg-blue?style=flat-square&logo=twitter"></a>
+<a href="mailto:bernard@devscast.tech"><img alt="Mail" src="https://img.shields.io/badge/Email-BernardNg-blue?style=flat-square"></a>
+</p>
 
-## 📫 How to reach me
-- Linkedin : https://www.linkedin.com/in/bernard-ngandu/
-- Email : bernard@devscast.tech
-- Telegram : https://t.me/BernardNgandu
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=bernard-ng&theme=github)
 
-📋 my resume (english) : [resume](assets/BernardTshabuNgandu-english.pdf)
-📋 my resume (french) : [resume](assets/BernardTshabuNgandu-french.pdf)
+## Resume
+-[Document en-EN](assets/BernardTshabuNgandu-english.pdf)
+
+-[Document fr-FR](assets/BernardTshabuNgandu-french.pdf)
