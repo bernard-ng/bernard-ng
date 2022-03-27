@@ -4,11 +4,7 @@
 
 Human, Entrepreneur and Software Developer
 Based in Lubumbashi - D.R Congo 🇨🇩
-
-
-## Successfull Personnal Projects
-- https://t.me/EsisHoraireBot (telegram bot +100 requests per day)
-- https://twitter.com/Covid19RdcBot (twitter bot +1k impressions per day)
+CTO and Co-founder at @devscast
 
 
 ## Get in touch
