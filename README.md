@@ -1,20 +1,15 @@
-# About
-Human, Entrepreneur and Software Developer
+![cover](assets/cover.jpg)
 
-Based in Lubumbashi - D.R Congo 🇨🇩
+## About Me
 
-CTO and Co-founder at @devscast
+My dream is to gain the freedom to help people through new products, to help them grow through experience and to realize their dreams and independence. For me, software development is a form of expression, nor can I agree that software development is an art.
 
-### Get in touch
+Skills: PHP - SYMFONY
+
+## Let's get in touch
 
 <p align="left">
 <a href="https://www.linkedin.com/in/bernard-ngandu/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-BernardNg-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://twitter.com/BernardNgandu"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-BernardNg-blue?style=flat-square&logo=twitter"></a>
 <a href="mailto:bernard@devscast.tech"><img alt="Mail" src="https://img.shields.io/badge/Email-BernardNg-blue?style=flat-square"></a>
 </p>
-
-### Resume
-
--[Resume English](assets/BernardTshabuNgandu-english.pdf)
-
--[Resume Rrançais](assets/BernardTshabuNgandu-french.pdf)
