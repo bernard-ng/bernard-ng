@@ -1,5 +1,3 @@
-![cover](assets/cover.jpg)
-
 ## About Me
 
 I'm a software developer since 2015, specialized in system modeling and design, I work mainly as a backend on projects although I have fullstack skills. Maintainer and opensource contributor in the PHP ecosystem, interested in data science and artificial intelligence.
