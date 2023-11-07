@@ -1,8 +1,10 @@
 ## About Me
 
-I'm a software developer since 2015, specialized in system modeling and design, I work mainly as a backend on projects although I have fullstack skills. Maintainer and opensource contributor in the PHP ecosystem, interested in data science and artificial intelligence.
+I've been a software developer since 2015, specializing in systems modeling and design, working mainly as a backend on projects although I have fullstack skills. I'm an opensource maintainer and contributor in the PHP ecosystem (Symfony framework), interested in data science and artificial intelligence.
 
-I am also the founder and leader of the Devscast community, the Google Developer Student Club Lead of New Horizons University (2022-2023), Ambassador zindi.africa for the DRC (2022-2023), Francophone Translator for freecodecamp. org the world's first programming learning platform, my goal in the communities has always been to impact; to push the limits of what we are capable of building, to change the perception that the world has towards African and Congolese developers in particular and this through community activities such as workshops, live session, content production
+I'm also the founder and leader of the Devscast community, the Google Developer Student Club Lead at Université Nouveaux Horizons (2022-2023), and zindi.africa Ambassador for the DRC (2022-2024).
+
+my goal in communities has always been to make an impact; to push back the limits of what we're capable of building, to change the world's perception of African and Congolese developers in particular, through a variety of community activities.
 
 
 ## Let's get in touch
