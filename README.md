@@ -6,9 +6,8 @@ I'm also the founder and leader of the Devscast community, the Google Developer 
 
 my goal in communities has always been to make an impact; to push back the limits of what we're capable of building, to change the world's perception of African and Congolese developers in particular, through a variety of community activities.
 
-![](https://github-readme-stats.vercel.app/api?username=bernard-ng&show_icons=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=bernard-ng&show_icons=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bernard-ng&layout=compact)
 
 ## Let's get in touch
 
