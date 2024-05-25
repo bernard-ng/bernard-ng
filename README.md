@@ -12,7 +12,7 @@ my goal in communities has always been to make an impact; to push back the limit
 ## Let's get in touch
 
 <p align="left">
-<a href="https://www.linkedin.com/in/bernard-ngandu/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-BernardNg-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://twitter.com/BernardNgandu"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-BernardNg-blue?style=flat-square&logo=twitter"></a>
-<a href="mailto:bernard@devscast.tech"><img alt="Mail" src="https://img.shields.io/badge/Email-BernardNg-blue?style=flat-square"></a>
+<a href="https://www.linkedin.com/in/bernard-ngandu/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-BernardNgandu-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://twitter.com/BernardNgandu"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-BernardNgandu-blue?style=flat-square&logo=twitter"></a>
+<a href="mailto:bernard@devscast.tech"><img alt="Mail" src="https://img.shields.io/badge/Email-BernardNgandu-blue?style=flat-square"></a>
 </p>
