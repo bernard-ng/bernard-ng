@@ -1,10 +1,10 @@
 ## About Me
 
-I've been a software developer since 2015, specializing in systems modeling and design, working mainly as a backend on projects although I have fullstack skills. I'm an opensource maintainer and contributor in the PHP ecosystem (Symfony framework), interested in data science and artificial intelligence.
+Since 2015, I've been passionate about web development, with particular expertise in the Symfony (PHP) framework. My career path has enabled me to successfully complete over 15 customer projects of all sizes, guaranteeing robust and innovative solutions.
 
-I'm also the founder and leader of the Devscast community, the Google Developer Student Club Lead at Université Nouveaux Horizons (2022-2023), and zindi.africa Ambassador for the DRC (2022-2024).
+I'm also an active contributor to open source projects, which enables me to collaborate with a community of talented developers and stay at the cutting edge of technological advances. My enthusiasm for new technologies, especially artificial intelligence, constantly drives me to explore and integrate these innovations into my projects.
 
-my goal in communities has always been to make an impact; to push back the limits of what we're capable of building, to change the world's perception of African and Congolese developers in particular, through a variety of community activities.
+With a degree in Computer Science, specializing in Computer Networks and Infrastructure, I decided to devote myself to applied computer research. I'm particularly interested in the context of developing countries such as the Democratic Republic of Congo (DRC). My aim is to contribute to technological advancement and innovation in these regions, by providing adapted and sustainable solutions.
 
 ![](https://github-readme-stats.vercel.app/api?username=bernard-ng&show_icons=true&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
