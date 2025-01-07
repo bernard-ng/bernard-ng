@@ -6,9 +6,6 @@ I'm also an active contributor to open source projects, which enables me to coll
 
 With a degree in Computer Science, specializing in Computer Networks and Infrastructure, I decided to devote myself to applied computer research. I'm particularly interested in the context of developing countries such as the Democratic Republic of Congo (DRC). My aim is to contribute to technological advancement and innovation in these regions, by providing adapted and sustainable solutions.
 
-![](https://github-readme-stats.vercel.app/api?username=bernard-ng&show_icons=true&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-
-
 ## Let's get in touch
 
 <p align="left">
@@ -16,7 +13,3 @@ With a degree in Computer Science, specializing in Computer Networks and Infrast
 <a href="https://twitter.com/BernardNgandu"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-BernardNgandu-blue?style=flat-square&logo=twitter"></a>
 <a href="mailto:bernard@devscast.tech"><img alt="Mail" src="https://img.shields.io/badge/Email-BernardNgandu-blue?style=flat-square"></a>
 </p>
-
-## Visitor count
-
-<img src="https://profile-counter.glitch.me/bernard-ng/count.svg" />
