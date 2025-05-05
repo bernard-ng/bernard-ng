@@ -1,6 +1,6 @@
 ## About Me
 
-Since 2015, I've been passionate about web development, with particular expertise in the Symfony (PHP) framework. My career path has enabled me to successfully complete over 15 customer projects of all sizes, guaranteeing robust and innovative solutions.
+Since 2015, I've been passionate about web development, with particular expertise in backend. My career path has enabled me to successfully complete various customer projects of all sizes, guaranteeing robust and innovative solutions.
 
 I'm also an active contributor to open source projects, which enables me to collaborate with a community of talented developers and stay at the cutting edge of technological advances. My enthusiasm for new technologies, especially artificial intelligence, constantly drives me to explore and integrate these innovations into my projects.
 
