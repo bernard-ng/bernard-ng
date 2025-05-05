@@ -11,5 +11,4 @@ With a degree in Computer Science, specializing in Computer Networks and Infrast
 <p align="left">
 <a href="https://www.linkedin.com/in/bernard-ngandu/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-BernardNgandu-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://twitter.com/BernardNgandu"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-BernardNgandu-blue?style=flat-square&logo=twitter"></a>
-<a href="mailto:bernard@devscast.tech"><img alt="Mail" src="https://img.shields.io/badge/Email-BernardNgandu-blue?style=flat-square"></a>
 </p>
