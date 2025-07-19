@@ -6,6 +6,9 @@ I'm also an active contributor to open source projects, which enables me to coll
 
 With a degree in Computer Science, specializing in Computer Networks and Infrastructure, I decided to devote myself to applied computer research. I'm particularly interested in the context of developing countries such as the Democratic Republic of Congo (DRC). My aim is to contribute to technological advancement and innovation in these regions, by providing adapted and sustainable solutions.
 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bernard-ng&theme=github_dark)
+
 ## Let's get in touch
 
 <p align="left">
