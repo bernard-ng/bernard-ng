@@ -9,6 +9,13 @@ With a degree in Computer Science, specializing in Computer Networks and Infrast
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bernard-ng&theme=github_dark)
 
+## Published Papers 
+
+- [Juro: A Retrieval-Augmented Generation AI Chatbot for Enhancing Legal Information Access in Resource-Constrained Settings](https://link.springer.com/chapter/10.1007/978-3-031-94439-0_15)
+
+
+
+
 ## Let's get in touch
 
 <p align="left">
