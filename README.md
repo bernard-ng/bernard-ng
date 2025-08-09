@@ -6,7 +6,7 @@ I'm also an active contributor to open source projects, which enables me to coll
 
 With a degree in Computer Science, specializing in Computer Networks and Infrastructure, I decided to devote myself to applied computer research. I'm particularly interested in the context of developing countries such as the Democratic Republic of Congo (DRC). My aim is to contribute to technological advancement and innovation in these regions, by providing adapted and sustainable solutions.
 
-## Published Papers 
+## Research
 
 - [Juro: A Retrieval-Augmented Generation AI Chatbot for Enhancing Legal Information Access in Resource-Constrained Settings](https://link.springer.com/chapter/10.1007/978-3-031-94439-0_15)
 
