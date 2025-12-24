@@ -1,16 +1,11 @@
-## About Me
+# About Me
 
-Since 2015, I've been passionate about web development, with particular expertise in backend. My career path has enabled me to successfully complete various customer projects of all sizes, guaranteeing robust and innovative solutions.
+I focus on building and researching digital systems that work under real-world constraints. My work centers on backend engineering, scalable architectures, and applied computing, with a strong interest in emerging markets such as the Democratic Republic of Congo (DRC). I am particularly drawn to problems where infrastructure, scale, and resources are imperfect, and where solutions must be robust, practical, and sustainable to matter.
 
-I'm also an active contributor to open source projects, which enables me to collaborate with a community of talented developers and stay at the cutting edge of technological advances. My enthusiasm for new technologies, especially artificial intelligence, constantly drives me to explore and integrate these innovations into my projects.
-
-With a degree in Computer Science, specializing in Computer Networks and Infrastructure, I decided to devote myself to applied computer research. I'm particularly interested in the context of developing countries such as the Democratic Republic of Congo (DRC). My aim is to contribute to technological advancement and innovation in these regions, by providing adapted and sustainable solutions.
-
-## Community 
+# Community 
 - [Devscast Software](https://github.com/devscast)
 - [Devscast Youtube](https://github.com/devscast-youtube)
 
-## Let's get in touch
-
+# Let's get in touch
 - [LinkedIn](https://www.linkedin.com/in/bernard-ngandu/)
 - [Google Scholar](https://scholar.google.com/citations?user=q1NA1zoAAAAJ&hl=fr)
