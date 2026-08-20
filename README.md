@@ -4,7 +4,6 @@ I focus on building and researching digital systems that work under real-world c
 
 # Let's get in touch 
 - [Website](https://ngandu.dev)
-- [Devscast Software](https://github.com/devscast)
-- [Devscast Youtube](https://github.com/devscast-youtube)
+- [Ngandu Development](https://github.com/ngandu-dev)
 - [LinkedIn](https://www.linkedin.com/in/bernard-ngandu/)
 - [Google Scholar](https://scholar.google.com/citations?user=q1NA1zoAAAAJ&hl=fr)
